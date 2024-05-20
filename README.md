@@ -1,4 +1,4 @@
-# Проект "Simple Computer"
+# Проект "Simple Computer" защита на 5
 
 ## Автор
 Фамилия: Багрей
